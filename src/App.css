@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+.card-birthday {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  border: 1px solid black;
+  width: 50%;
+}
+
+.card-birthday h3 {
+  color:white;
+}
+
+.card-birthday button {
+  width: 5rem;
+  margin: auto;
+  border-radius: 3px;
+  outline: none;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
